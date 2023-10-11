@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
+
+![React-Redux-App](https://github.com/SuchitraSwain/pokedex-react-js/assets/25793195/9daeb620-d841-4b7d-9148-bed1720ab299)
 
 ## Available Scripts
 
